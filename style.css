@@ -21,6 +21,7 @@ main {
   font-size: 2rem;
   text-align: center;
   color: #333333;
+  touch-action: manipulation;
 }
 .clear {
   grid-column: 1 / 4;
