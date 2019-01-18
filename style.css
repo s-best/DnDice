@@ -18,6 +18,7 @@ main {
   grid-gap: 0.25rem;
   grid-template-columns: 1fr 1fr 1fr;
   font-family: 'Montserrat', sans-serif;
+  font-display: fallback;
   font-size: 2rem;
   text-align: center;
   color: #333333;
@@ -32,6 +33,7 @@ button {
   border: 1px solid #333333;
   height: 4rem;
   font-family: 'Montserrat', sans-serif;
+  font-display: fallback;
   font-size: 1.2rem;
   color: #333333;
 }
